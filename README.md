@@ -2,7 +2,7 @@
 
 ![CatBoost](https://img.shields.io/badge/Powered%20By-CatBoost-orange)
 ![Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-ff4b4b)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 *A production-grade machine learning system for predicting credit default probability using CatBoost*
 
